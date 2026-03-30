@@ -49,5 +49,12 @@ Compares current year sales vs previous year using SAMEPERIODLASTYEAR
 
 
 <img width="1430" height="970" alt="Screenshot 2026-03-30 150525" src="https://github.com/user-attachments/assets/025090f1-8145-4ac6-9570-53b4f33e4c7a" />
+
+<img width="1399" height="968" alt="Screenshot 2026-03-30 150537" src="https://github.com/user-attachments/assets/5439defe-3690-497e-b88e-04024ee339ef" />
+
+<img width="1414" height="957" alt="Screenshot 2026-03-30 150551" src="https://github.com/user-attachments/assets/2858adeb-1572-4f01-97c5-db1f8b47e96d" />
+
 <img width="1885" height="931" alt="Screenshot 2026-03-30 150624" src="https://github.com/user-attachments/assets/0851281b-a9c7-4bf9-8fab-b0918db3aa9a" />
+
+<img width="1898" height="991" alt="Screenshot 2026-03-30 150658" src="https://github.com/user-attachments/assets/7d883a12-798f-4e90-ae22-ef40f9c8cbae" />
 
